@@ -10,6 +10,7 @@ keywords = ["revision", "study", "formula", "education"]
 categories = ["components", "layout"]
 disciplines = ["mathematics", "physics", "education"]
 compiler = ">=0.15.0"
+exclude = ["/bizu-sheet-github-banner.png"]
 
 [template]
 path = "template"
